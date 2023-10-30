@@ -1,6 +1,6 @@
 # BRFF-Bingo
 
-Bingo for Bratishkinoff. 
+Bingo for [Bratishkinoff](https://www.twitch.tv/bratishkinoff). 
 
 ## Contribute
 

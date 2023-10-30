@@ -1,8 +1,8 @@
-var headerText = "Stuff Republicans Say";
+var headerText = "BRFF Bingo";
 
-var footerText = "<a href='https://github.com/michaellevesque/HTML5-bingo' target='_blank'>Code available on github</a>";
+var footerText = "<a href='https://github.com/mbs0ft/brff-bingo' target='_blank'>Код доступен на GitHub</a>";
 
-var winText = "Winner";
+var winText = "Выигрыш";
 
 var clickSnd = new Audio("audio/click.mp3");
 

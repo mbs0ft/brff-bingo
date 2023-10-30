@@ -4,9 +4,9 @@ var footerText = "<a href='https://github.com/mbs0ft/brff-bingo' target='_blank'
 
 var winText = "Выигрыш";
 
-var clickSnd = new Audio("audio/click.mp3");
+var clickSnd = new Audio("audio/click.wav");
 
-var winSnd = new Audio("audio/win.mp3");
+var winSnd = new Audio("audio/win.wav");
 
 var JSONBingo = {"squares": [
         {"square": "Реклама УеБота"},

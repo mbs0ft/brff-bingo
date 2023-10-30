@@ -1,6 +1,6 @@
 var headerText = "BRFF Bingo";
 
-var footerText = "<a href='https://github.com/mbs0ft/brff-bingo' target='_blank'>Код доступен на GitHub</a>";
+var footerText = "<a href='https://github.com/mbs0ft/brff-bingo' target='_blank'>Хотите добавить фразы? Код доступен на GitHub</a><br><br><a href='https://t.me/ZALUPAPAYBOT' target='_blank'>УеБот</a>";
 
 var winText = "Выигрыш";
 

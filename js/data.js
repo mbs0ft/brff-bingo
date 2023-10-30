@@ -55,7 +55,12 @@ var JSONBingo = {"squares": [
         {"square": "Позвала Алина"},
         {"square": "Осудил что либо"},
         {"square": "Обосрал Доброкека"},
-        {"square": "Завис DonationAlerts"},
-        {"square": "Реклама Boosty"} 	
+        {"square": "Улыбнулся из-за котика"},
+        {"square": "Выпил кофе"},
+        {"square": "Выпил энергетик"},
+        {"square": "Кто-то помешал в Discord"},
+        {"square": "Кто-то кинул рейд +1"},
+        {"square": "Реклама телеги"},
+        {"square": "Пошёл играть в Counter-Strike"} 	
     ]
 };

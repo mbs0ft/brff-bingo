@@ -1,7 +1,8 @@
-
 # BRFF-Bingo
 
 Бинго для [Bratishkinoff](https://www.twitch.tv/bratishkinoff). 
+## Где поиграть?
+Поиграть можно [здесь](https://mb-soft.ru/bingo).
 
 ## Как добавить фразы?
 **ℹ️ Если не умеете добавлять код, то просто сделайте новый issue в этом репозитории.**
